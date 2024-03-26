@@ -23,13 +23,13 @@
 <body bgcolor="#4497F4">
     <table align="center" cellpading="10" border="0" width="100%">
         <tr>
-            <th><a href="beranda.html" target="maincontent">
+            <th><a href="beranda.php" target="maincontent">
                     <font color="white" face="calibri" size="5">Beranda</font>
                 </a></th>
-            <th><a href="pendidikan.html" target="maincontent">
+            <th><a href="pendidikan.php" target="maincontent">
                     <font color="white" face="calibri" size="5">Riwayat Pendidikan</font>
                 </a></th>
-            <th><a href="galeri.html" target="maincontent">
+            <th><a href="galeri.php" target="maincontent">
                     <font color="white" face="calibri" size="5">Galeri</font>
                 </a></th>
         </tr>
